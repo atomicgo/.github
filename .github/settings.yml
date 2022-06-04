@@ -7,7 +7,7 @@ repository:
   #  name: repo-name
 
   # A short description of the repository that will show up on GitHub
-  description: Shared settings between AtomicGo repositories ⚙️
+  description: ⚙️ Shared settings between AtomicGo repositories
 
   # A URL with more information about the repository
   homepage: https://atomicgo.dev
