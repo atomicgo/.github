@@ -11,10 +11,6 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atomicgo/atomicgo/main/assets/header.png" alt="AtomicGo">
-</p>
-
-<p align="center">
 <a href="https://discord.gg/vE2dNkfAmF">
 <img width="300" src="https://user-images.githubusercontent.com/31022056/158916278-4504b838-7ecb-4ab9-a900-7dc002aade78.png" alt="Join us on Discord!" />
 <br/>
