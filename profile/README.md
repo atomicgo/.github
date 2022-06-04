@@ -1,5 +1,3 @@
-<h1 align="center">AtomicGo</h1>
-
 ---
 
 <p align="center">
