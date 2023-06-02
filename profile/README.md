@@ -1,4 +1,4 @@
-![AtomicGo Header](https://github.com/atomicgo/.github/assets/31022056/8e86245a-3a49-4dc9-aef5-b436200dd4d6)
+![AtomicGo Header](https://github.com/atomicgo/.github/assets/31022056/2c938fec-19ec-4eaa-9007-f9dd36b9e61e)
 
 <p align="center">
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatomicgo%2Edev%2Fapi%2Fshields%2Ftotal&style=for-the-badge&label=total%20package%20downloads" alt="Downloads">
