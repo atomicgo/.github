@@ -81,6 +81,8 @@ branches:
 labels:
   - name: bug
     color: d73a4a
+  - name: breaking
+    color: ff0000
   - name: docs
     color: 0075ca
   - name: duplicate
