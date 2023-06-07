@@ -83,6 +83,8 @@ labels:
     color: d73a4a
   - name: breaking
     color: ff0000
+  - name: fix
+    color: 0052cc
   - name: docs
     color: 0075ca
   - name: duplicate
