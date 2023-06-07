@@ -76,3 +76,26 @@ branches:
         apps: [ ]
         users: [ ]
         teams: [ ]
+
+# Labels: define labels for Issues and Pull Requests
+labels:
+  - name: bug
+    color: d73a4a
+  - name: docs
+    color: 0075ca
+  - name: duplicate
+    color: cfd3d7
+  - name: feature
+    color: 006B75
+  - name: proposal
+    color: 008672
+  - name: good first issues
+    color: 7057ff
+  - name: help wanted
+    color: 008672
+  - name: in progress
+    color: 5319e7
+  - name: invalid
+    color: e4e669
+  - name: question
+    color: d876e3
