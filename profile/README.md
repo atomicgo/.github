@@ -1,6 +1,13 @@
 ![AtomicGo Header](https://github.com/atomicgo/.github/assets/31022056/2c938fec-19ec-4eaa-9007-f9dd36b9e61e)
 
 <p align="center">
+<a href="https://blog.atomicgo.dev" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="AtomicGo" />
+</a>
+<a href="https://twitter.com/AtomicGolang" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="AtomicGolang" />
+</a>
+<br/>
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatomicgo%2Edev%2Fapi%2Fshields%2Ftotal&style=for-the-badge&label=total%20package%20downloads" alt="Downloads">
 </p>
 
