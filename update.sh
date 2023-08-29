@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Array of repositories to exclude
-EXCLUDED_REPOS=("ci" ".github" "template")
+EXCLUDED_REPOS=("ci" ".github" "template" "atomicgo")
 
 # GitHub username
 USERNAME="atomicgo"
