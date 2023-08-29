@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup JQ
+        run: sudo apt-get install jq
+
+      - name: Setup CURL
+        run: sudo apt-get install curl
+
+      - name: Run update script
+        run: bash ./update.sh
+
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --cached --quiet || git commit -m "Automatically update README"
+          git push
