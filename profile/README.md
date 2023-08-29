@@ -10,9 +10,10 @@
 
 ---
 
+> AtomicGo is an open-source initiative founded to make Go development easier, cleaner, and more efficient. As software engineers, we understand the need for well-structured, minimalistic, and idiomatic Go packages. Our packages are not only optimized for performance but are also well-documented to make your life easier.
+
 <h1>
-    AtomicGo Libraries |
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatomicgo%2Edev%2Fapi%2Fshields%2Ftotal&label=Downloads&style=flat-square" alt="Downloads">
+    AtomicGo Libraries
 </h1>
 
 <!-- repos:start -->
@@ -33,6 +34,12 @@
 - [schedule](https://github.com/atomicgo/schedule): ⏰ Easily schedule non-blocking tasks in Go. Supports durations, specific times and intervals.
 - [stack](https://github.com/atomicgo/stack): 📚 A simple stack implementation in Go
 <!-- repos:end -->
+
+<p align="center">
+     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatomicgo%2Edev%2Fapi%2Fshields%2Ftotal&label=Total%20Downloads&style=for-the-badge" alt="Downloads">
+</p>
+
+---
 
 <p align="center">
 <a href="https://blog.atomicgo.dev" target="blank">
