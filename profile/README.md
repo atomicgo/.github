@@ -16,7 +16,22 @@
 ---
 
 <!-- repos:start -->
-
+- [assert](https://github.com/atomicgo/assert): ✅ Go package with tons of assertions!
+- [atomicgo](https://github.com/atomicgo/atomicgo): 🔗 Shared resources and assets for the AtomicGo organisatzion
+- [cache](https://github.com/atomicgo/cache): 🧠 A generic, thread-safe cache implementation in Go for improved performance!
+- [chslog](https://github.com/atomicgo/chslog): ♻️ Automatically change the underlying slog handler, based on the environment.
+- [counter](https://github.com/atomicgo/counter): 🔢 Counter is a fast, thread-safe counter. It collects statstics, like current rate, min / max rate, etc.
+- [cursor](https://github.com/atomicgo/cursor): 🖱️ Go module to move the terminal cursor in any direction on every operating system.
+- [ghissue](https://github.com/atomicgo/ghissue): 📦 Go library that enables your users to submit error reports to GitHub
+- [isadmin](https://github.com/atomicgo/isadmin): 🧑‍💼 Golang module to check if your program has administrative privileges.
+- [isprod](https://github.com/atomicgo/isprod): 🔴 A minimalistic Go module to check if the current environment is running in production.
+- [keyboard](https://github.com/atomicgo/keyboard): ⌨️ Read keyboard events in your terminal applications! (Arrow keys, Home, End, etc.)
+- [list](https://github.com/atomicgo/list): 📝 A generic list implementation in Go for easy functional programming
+- [pool](https://github.com/atomicgo/pool): 📦 Template repository for AtomicGo repositories
+- [random](https://github.com/atomicgo/random): 🎲 Minimalistic random generator for numbers, strings, booleans, etc.
+- [robin](https://github.com/atomicgo/robin): 🔄 Generic, fast and thread-safe round-robin loadbalancer library
+- [schedule](https://github.com/atomicgo/schedule): ⏰ Easily schedule non-blocking tasks in Go. Supports durations, specific times and intervals.
+- [stack](https://github.com/atomicgo/stack): 📚 A simple stack implementation in Go
 <!-- repos:end -->
 
 
