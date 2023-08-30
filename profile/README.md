@@ -18,7 +18,6 @@
 
 <!-- repos:start -->
 - [assert](https://github.com/atomicgo/assert): ✅ Go package with tons of assertions!
-- [atomicgo](https://github.com/atomicgo/atomicgo): 🔗 Shared resources and assets for the AtomicGo organisatzion
 - [cache](https://github.com/atomicgo/cache): 🧠 A generic, thread-safe cache implementation in Go for improved performance!
 - [chslog](https://github.com/atomicgo/chslog): ♻️ Automatically change the underlying slog handler, based on the environment.
 - [counter](https://github.com/atomicgo/counter): 🔢 Counter is a fast, thread-safe counter. It collects statstics, like current rate, min / max rate, etc.
