@@ -23,6 +23,7 @@
 - [counter](https://github.com/atomicgo/counter): 🔢 Counter is a fast, thread-safe counter. It collects statstics, like current rate, min / max rate, etc.
 - [cursor](https://github.com/atomicgo/cursor): 🖱️ Go module to move the terminal cursor in any direction on every operating system.
 - [ghissue](https://github.com/atomicgo/ghissue): 📦 Go library that enables your users to submit error reports to GitHub
+- [hook](https://github.com/atomicgo/hook): 📦 Template repository for AtomicGo repositories
 - [isadmin](https://github.com/atomicgo/isadmin): 🧑‍💼 Golang module to check if your program has administrative privileges.
 - [isprod](https://github.com/atomicgo/isprod): 🔴 A minimalistic Go module to check if the current environment is running in production.
 - [keyboard](https://github.com/atomicgo/keyboard): ⌨️ Read keyboard events in your terminal applications! (Arrow keys, Home, End, etc.)
