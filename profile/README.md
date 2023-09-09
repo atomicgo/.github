@@ -34,6 +34,7 @@
 - [schedule](https://github.com/atomicgo/schedule): ⏰ Easily schedule non-blocking tasks in Go. Supports durations, specific times and intervals.
 - [splitslog](https://github.com/atomicgo/splitslog): ䷖ Slog handler that maps different handlers to different log levels
 - [stack](https://github.com/atomicgo/stack): 📚 A simple stack implementation in Go
+- [utils](https://github.com/atomicgo/utils): 📦 Template repository for AtomicGo repositories
 <!-- repos:end -->
 
 <p align="center">
