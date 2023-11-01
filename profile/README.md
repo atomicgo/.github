@@ -22,7 +22,7 @@
 - [chslog](https://github.com/atomicgo/chslog): ♻️ Automatically change the underlying slog handler, based on the environment.
 - [counter](https://github.com/atomicgo/counter): 🔢 Counter is a fast, thread-safe counter. It collects statstics, like current rate, min / max rate, etc.
 - [cursor](https://github.com/atomicgo/cursor): 🖱️ Go module to move the terminal cursor in any direction on every operating system.
-- [f](https://github.com/atomicgo/f): 📦 Template repository for AtomicGo repositories
+- [f](https://github.com/atomicgo/f): 🦄 The closest thing to template literals in Go. Parse expressions in strings - the simple way.
 - [ghissue](https://github.com/atomicgo/ghissue): 📦 Go library that enables your users to submit error reports to GitHub
 - [hook](https://github.com/atomicgo/hook): 📦 Template repository for AtomicGo repositories
 - [isadmin](https://github.com/atomicgo/isadmin): 🧑‍💼 Golang module to check if your program has administrative privileges.
