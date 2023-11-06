@@ -20,6 +20,7 @@
 - [assert](https://github.com/atomicgo/assert): ✅ Go package with tons of assertions!
 - [cache](https://github.com/atomicgo/cache): 🧠 A generic, thread-safe cache implementation in Go for improved performance!
 - [chslog](https://github.com/atomicgo/chslog): ♻️ Automatically change the underlying slog handler, based on the environment.
+- [constraints](https://github.com/atomicgo/constraints): 🦖 Drop-in replacement for golang.org/x/exp/constraints with more predefined constraints
 - [counter](https://github.com/atomicgo/counter): 🔢 Counter is a fast, thread-safe counter. It collects statstics, like current rate, min / max rate, etc.
 - [cursor](https://github.com/atomicgo/cursor): 🖱️ Go module to move the terminal cursor in any direction on every operating system.
 - [f](https://github.com/atomicgo/f): 🦄 The closest thing to template literals in Go. Parse expressions in strings - the simple way.
