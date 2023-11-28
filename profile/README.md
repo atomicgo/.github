@@ -30,14 +30,14 @@
 - [isprod](https://github.com/atomicgo/isprod): 🔴 A minimalistic Go module to check if the current environment is running in production.
 - [keyboard](https://github.com/atomicgo/keyboard): ⌨️ Read keyboard events in your terminal applications! (Arrow keys, Home, End, etc.)
 - [list](https://github.com/atomicgo/list): 📝 A generic list implementation in Go for easy functional programming
-- [pool](https://github.com/atomicgo/pool): 📦 Template repository for AtomicGo repositories
+- [pool](https://github.com/atomicgo/pool): 🤿 Minimalistic worker pool for Go
 - [random](https://github.com/atomicgo/random): 🎲 Minimalistic random generator for numbers, strings, booleans, etc.
 - [robin](https://github.com/atomicgo/robin): 🔄 Generic, fast and thread-safe round-robin loadbalancer library
 - [schedule](https://github.com/atomicgo/schedule): ⏰ Easily schedule non-blocking tasks in Go. Supports durations, specific times and intervals.
 - [splitslog](https://github.com/atomicgo/splitslog): ䷖ Slog handler that maps different handlers to different log levels
 - [stack](https://github.com/atomicgo/stack): 📚 A simple stack implementation in Go
 - [timeout](https://github.com/atomicgo/timeout): ⏱️ Timeout helpers for Go - limit functions to a maximum execution time
-- [utils](https://github.com/atomicgo/utils): 📦 Template repository for AtomicGo repositories
+- [utils](https://github.com/atomicgo/utils): ✨ The most sophisticated utils package for Go
 <!-- repos:end -->
 
 <p align="center">
