@@ -24,6 +24,7 @@
 - [constraints](https://github.com/atomicgo/constraints): 🦖 Drop-in replacement for golang.org/x/exp/constraints with more predefined constraints
 - [counter](https://github.com/atomicgo/counter): 🔢 Counter is a fast, thread-safe counter. It collects statstics, like current rate, min / max rate, etc.
 - [cursor](https://github.com/atomicgo/cursor): 🖱️ Go module to move the terminal cursor in any direction on every operating system.
+- [eta](https://github.com/atomicgo/eta): ⚙️ Shared settings between AtomicGo repositories
 - [f](https://github.com/atomicgo/f): 🦄 The closest thing to template literals in Go. Parse expressions in strings - the simple way.
 - [ghissue](https://github.com/atomicgo/ghissue): 📦 Go library that enables your users to submit error reports to GitHub
 - [hook](https://github.com/atomicgo/hook): 📦 Template repository for AtomicGo repositories
@@ -35,6 +36,7 @@
 - [random](https://github.com/atomicgo/random): 🎲 Minimalistic random generator for numbers, strings, booleans, etc.
 - [robin](https://github.com/atomicgo/robin): 🔄 Generic, fast and thread-safe round-robin loadbalancer library
 - [schedule](https://github.com/atomicgo/schedule): ⏰ Easily schedule non-blocking tasks in Go. Supports durations, specific times and intervals.
+- [scraper](https://github.com/atomicgo/scraper): 📦 Template repository for AtomicGo repositories
 - [splitslog](https://github.com/atomicgo/splitslog): ䷖ Slog handler that maps different handlers to different log levels
 - [stack](https://github.com/atomicgo/stack): 📚 A simple stack implementation in Go
 - [timeout](https://github.com/atomicgo/timeout): ⏱️ Timeout helpers for Go - limit functions to a maximum execution time
