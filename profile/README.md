@@ -36,7 +36,6 @@
 - [random](https://github.com/atomicgo/random): 🎲 Minimalistic random generator for numbers, strings, booleans, etc.
 - [robin](https://github.com/atomicgo/robin): 🔄 Generic, fast and thread-safe round-robin loadbalancer library
 - [schedule](https://github.com/atomicgo/schedule): ⏰ Easily schedule non-blocking tasks in Go. Supports durations, specific times and intervals.
-- [scraper](https://github.com/atomicgo/scraper): 📦 Template repository for AtomicGo repositories
 - [splitslog](https://github.com/atomicgo/splitslog): ䷖ Slog handler that maps different handlers to different log levels
 - [stack](https://github.com/atomicgo/stack): 📚 A simple stack implementation in Go
 - [timeout](https://github.com/atomicgo/timeout): ⏱️ Timeout helpers for Go - limit functions to a maximum execution time
