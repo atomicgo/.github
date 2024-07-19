@@ -13,7 +13,7 @@ repository:
   homepage: https://atomicgo.dev
 
   # A comma-separated list of topics to set on the repository
-  topics: atomicgo, go, golang, golang-library
+  topics: atomicgo
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
@@ -46,60 +46,3 @@ repository:
   # rebase-merging.
   allow_rebase_merge: false
 
-branches:
-  - name: main
-    # https://developer.github.com/v3/repos/branches/#update-branch-protection
-    # Branch Protection settings. Set to null to disable
-    protection:
-      # Required. Require at least one approving review on a pull request, before merging. Set to null to disable.
-      required_pull_request_reviews:
-        # The number of approvals required. (1-6)
-        required_approving_review_count: 1
-        # Dismiss approved reviews automatically when a new commit is pushed.
-        dismiss_stale_reviews: true
-        # Blocks merge until code owners have reviewed.
-        require_code_owner_reviews: true
-        # Specify which users and teams can dismiss pull request reviews. Pass an empty dismissal_restrictions object to disable. User and team dismissal_restrictions are only available for organization-owned repositories. Omit this parameter for personal repositories.
-        dismissal_restrictions:
-          users: [ ]
-          teams: [ ]
-      # Required. Require status checks to pass before merging. Set to null to disable
-      required_status_checks:
-        # Required. Require branches to be up to date before merging.
-        strict: true
-        # Required. The list of status checks to require in order to merge into this branch
-        contexts: ["lint", "Build (ubuntu-latest)", "Build (macos-latest)", "Build (windows-latest)"]
-      # Required. Enforce all configured restrictions for administrators. Set to true to enforce required status checks for repository administrators. Set to null to disable.
-      enforce_admins: false
-      # Required. Restrict who can push to this branch. Team and user restrictions are only available for organization-owned repositories. Set to null to disable.
-      restrictions:
-        apps: [ ]
-        users: [ ]
-        teams: [ ]
-
-# Labels: define labels for Issues and Pull Requests
-labels:
-  - name: bug
-    color: d73a4a
-  - name: breaking
-    color: ff0000
-  - name: fix
-    color: 0052cc
-  - name: docs
-    color: 0075ca
-  - name: duplicate
-    color: cfd3d7
-  - name: feature
-    color: 006B75
-  - name: proposal
-    color: 008672
-  - name: good first issues
-    color: 7057ff
-  - name: help wanted
-    color: 008672
-  - name: in progress
-    color: 5319e7
-  - name: invalid
-    color: e4e669
-  - name: question
-    color: d876e3
