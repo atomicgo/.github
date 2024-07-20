@@ -15,9 +15,6 @@ repository:
   # A comma-separated list of topics to set on the repository
   topics: atomicgo, go, golang, golang-library
 
-  # Either `true` to make the repository private, or `false` to make it public.
-  private: false
-
   # Either `true` to enable issues for this repository, `false` to disable them.
   has_issues: true
 
@@ -72,3 +69,23 @@ labels:
     color: e4e669
   - name: question
     color: d876e3
+
+branches:
+  - name: main
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 1
+        dismiss_stale_reviews: true
+        require_code_owner_reviews: true
+        dismissal_restrictions:
+          users: []
+          teams: []
+      required_status_checks:
+        strict: true
+        contexts: []
+      enforce_admins: false
+      required_linear_history: false
+      restrictions:
+        apps: []
+        users: []
+        teams: []
