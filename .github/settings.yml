@@ -13,7 +13,7 @@ repository:
   homepage: https://atomicgo.dev
 
   # A comma-separated list of topics to set on the repository
-  topics: atomicgo, go, golang, golang-library
+  topics: atomicgo
 
   # Either `true` to enable issues for this repository, `false` to disable them.
   has_issues: true
