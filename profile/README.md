@@ -20,6 +20,7 @@
 - [assert](https://github.com/atomicgo/assert): ✅ Go package with tons of assertions!
 - [cache](https://github.com/atomicgo/cache): 🧠 A generic, thread-safe cache implementation in Go for improved performance!
 - [chslog](https://github.com/atomicgo/chslog): ♻️ Automatically change the underlying slog handler, based on the environment.
+- [color](https://github.com/atomicgo/color): 🎨 Simple colors for your terminal in Go
 - [config](https://github.com/atomicgo/config): 📦 Template repository for AtomicGo repositories
 - [constraints](https://github.com/atomicgo/constraints): 🦖 Drop-in replacement for golang.org/x/exp/constraints with more predefined constraints
 - [counter](https://github.com/atomicgo/counter): 🔢 Counter is a fast, thread-safe counter. It collects statstics, like current rate, min / max rate, etc.
@@ -40,6 +41,7 @@
 - [stack](https://github.com/atomicgo/stack): 📚 A simple stack implementation in Go
 - [timeout](https://github.com/atomicgo/timeout): ⏱️ Timeout helpers for Go - limit functions to a maximum execution time
 - [utils](https://github.com/atomicgo/utils): ✨ The most sophisticated utils package for Go
+- [xdg](https://github.com/atomicgo/xdg): 📦 Template repository for AtomicGo repositories
 <!-- repos:end -->
 
 <p align="center">
