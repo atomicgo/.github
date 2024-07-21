@@ -41,7 +41,6 @@
 - [stack](https://github.com/atomicgo/stack): 📚 A simple stack implementation in Go
 - [timeout](https://github.com/atomicgo/timeout): ⏱️ Timeout helpers for Go - limit functions to a maximum execution time
 - [utils](https://github.com/atomicgo/utils): ✨ The most sophisticated utils package for Go
-- [xdg](https://github.com/atomicgo/xdg): 📦 Template repository for AtomicGo repositories
 <!-- repos:end -->
 
 <p align="center">
