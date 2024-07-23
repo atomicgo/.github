@@ -3,9 +3,6 @@
 repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
-  # The name of the repository. Changing this will rename the repository
-  #  name: repo-name
-
   # A short description of the repository that will show up on GitHub
   description: ⚙️ Shared settings between AtomicGo repositories
 
@@ -14,9 +11,6 @@ repository:
 
   # A comma-separated list of topics to set on the repository
   topics: atomicgo
-
-  # Either `true` to make the repository private, or `false` to make it public.
-  private: false
 
   # Either `true` to enable issues for this repository, `false` to disable them.
   has_issues: true
@@ -45,4 +39,3 @@ repository:
   # Either `true` to allow rebase-merging pull requests, or `false` to prevent
   # rebase-merging.
   allow_rebase_merge: false
-
