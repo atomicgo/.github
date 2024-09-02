@@ -28,7 +28,6 @@
 - [eta](https://github.com/atomicgo/eta): ⚙️ Shared settings between AtomicGo repositories
 - [f](https://github.com/atomicgo/f): 🦄 The closest thing to template literals in Go. Parse expressions in strings - the simple way.
 - [ghissue](https://github.com/atomicgo/ghissue): 📦 Go library that enables your users to submit error reports to GitHub
-- [hook](https://github.com/atomicgo/hook): 📦 Template repository for AtomicGo repositories
 - [isadmin](https://github.com/atomicgo/isadmin): 🧑‍💼 Golang module to check if your program has administrative privileges.
 - [isprod](https://github.com/atomicgo/isprod): 🔴 A minimalistic Go module to check if the current environment is running in production.
 - [keyboard](https://github.com/atomicgo/keyboard): ⌨️ Read keyboard events in your terminal applications! (Arrow keys, Home, End, etc.)
