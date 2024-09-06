@@ -26,6 +26,7 @@
 - [counter](https://github.com/atomicgo/counter): 🔢 Counter is a fast, thread-safe counter. It collects statstics, like current rate, min / max rate, etc.
 - [cursor](https://github.com/atomicgo/cursor): 🖱️ Go module to move the terminal cursor in any direction on every operating system.
 - [eta](https://github.com/atomicgo/eta): ⚙️ Shared settings between AtomicGo repositories
+- [event](https://github.com/atomicgo/event): 📅 Simple generic event system for Go
 - [f](https://github.com/atomicgo/f): 🦄 The closest thing to template literals in Go. Parse expressions in strings - the simple way.
 - [ghissue](https://github.com/atomicgo/ghissue): 📦 Go library that enables your users to submit error reports to GitHub
 - [isadmin](https://github.com/atomicgo/isadmin): 🧑‍💼 Golang module to check if your program has administrative privileges.
