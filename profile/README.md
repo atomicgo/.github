@@ -23,6 +23,7 @@
 - [color](https://github.com/atomicgo/color): 🎨 Simple colors for your terminal in Go
 - [config](https://github.com/atomicgo/config): 📦 Template repository for AtomicGo repositories
 - [constraints](https://github.com/atomicgo/constraints): 🦖 Drop-in replacement for golang.org/x/exp/constraints with more predefined constraints
+- [convert](https://github.com/atomicgo/convert): 📐 Convert strings to integers, or Astronomical Units to Gigameter - we got you covered!
 - [counter](https://github.com/atomicgo/counter): 🔢 Counter is a fast, thread-safe counter. It collects statstics, like current rate, min / max rate, etc.
 - [cursor](https://github.com/atomicgo/cursor): 🖱️ Go module to move the terminal cursor in any direction on every operating system.
 - [eta](https://github.com/atomicgo/eta): ⚙️ Shared settings between AtomicGo repositories
